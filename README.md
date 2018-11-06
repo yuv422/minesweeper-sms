@@ -2,6 +2,8 @@
 Minesweeper v1.1
 ----------------
 
+![Minesweeper SMS](images/Minesweeper-SMS.png)
+
 My entry into the sms power 2014 coding competition.
 
 This is my take on the classic computer game Minesweeper for the sega master
