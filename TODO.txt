@@ -1,0 +1,12 @@
+title screen
+board size selector screen.
+multiple board sizes
+board size framing
+cursor animation
+game time
+empty tile flood fill routine
+pause button music toggle
+win sequence
+lose sequence
+smiley face animations
+key repeat
